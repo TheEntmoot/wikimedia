@@ -11,7 +11,7 @@ header{
   font-size: 150%;
   line-height: 1.5;
   margin-top: 40px;
-  width:75%;
+  width:70%;
   text-align: center;
 }
 a{
@@ -26,6 +26,7 @@ a:hover{
 .header_title{
   text-align: right;
   font-weight: bold;
+  margin-top: 30px;
 }
 .link_container{
   margin-top: 50px;
@@ -33,10 +34,8 @@ a:hover{
   flex-direction: row;
   /*height:auto;*/
   flex-wrap: wrap;
-  max-width: 749px;
-  justify-content: space-around;
-  align-content: center;
-  align-items: center;
+  max-width: 825px;
+  justify-content: space-between;
   width: 75%;
 }
 .img_link{
